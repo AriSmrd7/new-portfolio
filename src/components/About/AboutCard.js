@@ -10,8 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Ari Sumardi </span>
             from <span className="purple"> Sumedang, Indonesia.</span>
-            <br />I am fullstack developer
-            Mesra.
+            <br />I am fullstack developer and solidity developer
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

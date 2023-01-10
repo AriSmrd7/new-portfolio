@@ -10,6 +10,7 @@ import {
   SiHtml5,
   SiAndroid,
   SiReact,
+  SiSolidity,
 } from "react-icons/si";
 
 function Techstack() {
